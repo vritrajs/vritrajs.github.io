@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.1c20a401.css",
-    "main.js": "./static/js/main.3ad5f031.js",
+    "main.css": "./static/css/main.1b5566d7.css",
+    "main.js": "./static/js/main.8d59ce85.js",
     "static/media/ModalPreview_0.gif": "./static/media/ModalPreview_0.bd430e18af46e8489fc6.gif",
     "static/media/WebViewPreview_0.gif": "./static/media/WebViewPreview_0.fa13f752f79a855176ef.gif",
     "static/media/NotoSans-Regular.ttf": "./static/media/NotoSans-Regular.eae34fa8f1e0c4c6d797.ttf",
@@ -14,24 +14,24 @@
     "static/media/SecondViewLocation_0.png": "./static/media/SecondViewLocation_0.da8e2671e0b9588b10bf.png",
     "static/media/ScreensLocation_0.png": "./static/media/ScreensLocation_0.082051ff217b372b7304.png",
     "static/media/ConfigFileLocation_0.png": "./static/media/ConfigFileLocation_0.cf18b11a6ba0a5854c1a.png",
-    "static/media/Raspberry_0.svg": "./static/media/Raspberry_0.9fd6e52a9a2e24f8e35d30572548ff60.svg",
-    "static/media/Cabbage_0.svg": "./static/media/Cabbage_0.ac2e36edc5b63efe1c951aedb6ff533b.svg",
-    "static/media/Pineapple_0.svg": "./static/media/Pineapple_0.86ba4682ea0e1ba9b88a612d55824aca.svg",
-    "static/media/Kiwi_0.svg": "./static/media/Kiwi_0.165a75913b9814bbfffe510b9b62d0f2.svg",
-    "static/media/Celery_0.svg": "./static/media/Celery_0.f99223571a00b51739e845737cc4937a.svg",
-    "static/media/Beet_0.svg": "./static/media/Beet_0.495b54cbdddf6d3bfd875e2e04d90ab7.svg",
-    "static/media/Vritra_0.svg": "./static/media/Vritra_0.78afd7751fcbbd4f04df5c2c60cd9584.svg",
-    "static/media/Strawberry_0.svg": "./static/media/Strawberry_0.7246f1ba7877f4894c1b871bb997755f.svg",
-    "static/media/Peas_0.svg": "./static/media/Peas_0.dcbd1661cd25f1ac53c284564ae05df1.svg",
-    "static/media/Radish_0.svg": "./static/media/Radish_0.d127c7af1377a6005bc789c1d43d7c27.svg",
-    "static/media/Pear_0.svg": "./static/media/Pear_0.e9a1a687195916b358a01abd92c0cc8f.svg",
-    "static/media/Potato_0.svg": "./static/media/Potato_0.11e4d11d527578d36b1a2fe8ae77b3fb.svg",
+    "static/media/Raspberry_0.svg": "./static/media/Raspberry_0.59c72c1140217029200575b9124db6c1.svg",
+    "static/media/Cabbage_0.svg": "./static/media/Cabbage_0.e0069ba332295d0e968825c865abbdb4.svg",
+    "static/media/Pineapple_0.svg": "./static/media/Pineapple_0.ac8b4abd4a0c59110ffccd33f8da03a5.svg",
+    "static/media/Kiwi_0.svg": "./static/media/Kiwi_0.43deb7fe62f397d613c22f82c4e19e6e.svg",
+    "static/media/Celery_0.svg": "./static/media/Celery_0.c4a2090ab6b9b030844668c70eef1e8d.svg",
+    "static/media/Beet_0.svg": "./static/media/Beet_0.46646c71d25203b95f314b52905c72f9.svg",
+    "static/media/Vritra_0.svg": "./static/media/Vritra_0.d40b545a8f5e2455f1885a0224c1fdf0.svg",
+    "static/media/Strawberry_0.svg": "./static/media/Strawberry_0.10b9708fff4b881da273415c227ed9f0.svg",
+    "static/media/Peas_0.svg": "./static/media/Peas_0.7626ab5642ade4a24c3d3169c0198f22.svg",
+    "static/media/Radish_0.svg": "./static/media/Radish_0.d26b5b9b7cccc1d8ae8f2988a7c463ef.svg",
+    "static/media/Pear_0.svg": "./static/media/Pear_0.250589521c9ff1fec643046a4dbc4ba8.svg",
+    "static/media/Potato_0.svg": "./static/media/Potato_0.06edca13f7d7a7e4df8213f3831f1a23.svg",
     "index.html": "./index.html",
-    "main.1c20a401.css.map": "./static/css/main.1c20a401.css.map",
-    "main.3ad5f031.js.map": "./static/js/main.3ad5f031.js.map"
+    "main.1b5566d7.css.map": "./static/css/main.1b5566d7.css.map",
+    "main.8d59ce85.js.map": "./static/js/main.8d59ce85.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c20a401.css",
-    "static/js/main.3ad5f031.js"
+    "static/css/main.1b5566d7.css",
+    "static/js/main.8d59ce85.js"
   ]
 }
